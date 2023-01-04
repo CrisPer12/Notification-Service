@@ -8,7 +8,7 @@
 </p>
 
 ## :page_facing_up: Descrição
-O Notification Service é um serviço de notifiação desenvolvido com Nodejs + Nest, feito durante ignate lab da rocktseat.
+O Notification Service é um serviço de notificação desenvolvido com Nodejs + Nest, feito durante ignate lab da rocktseat.
 
 
 ## 🛠 Tecnologias
