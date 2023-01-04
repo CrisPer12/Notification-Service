@@ -1,10 +1,5 @@
-<h1 align="center">
-  <img width="400px" src="https://github.com/CrisPer12/moveYouApp/blob/main/logo.svg" />
-  <br />
-</h1>
 <p align="center">
   <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#art-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#closed_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,18 +7,9 @@
   <a href="#memo-Licença">Licença</a>
 </p>
 
-
-<div align="center">
-  <img  width="700px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image1.JPG" />
-  <img  width="700px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image2.JPG" />
-  <img  width="700px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image3.JPG" />,
-</div>
-
 ## :page_facing_up: Descrição
 O Moveyou é um app que usa a técnica de Pomodoro, uma aplicação desenvolvida durante a NLW#4 da Rocktseat.
 
-## :art: Layout
-Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0">desse link<a>.
 
 ## 🛠 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias
@@ -64,8 +50,6 @@ $ npm run dev
 
 # O app vai está rodando na porta 3000 - acesse <http://localhost:3000>
 ```
-
-
 
 ## :memo: Licença
 
