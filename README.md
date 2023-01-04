@@ -8,25 +8,23 @@
 </p>
 
 ## :page_facing_up: Descrição
-O Moveyou é um app que usa a técnica de Pomodoro, uma aplicação desenvolvida durante a NLW#4 da Rocktseat.
+O Notification Service é um serviço de notifiação desenvolvido com Nodejs + Nest, feito durante ignate lab da rocktseat.
 
 
 ## 🛠 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias
 
-- [Next.js](https://nextjs.org/)
-- [React.js](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [StyledComponents](https://styled-components.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Nest.js](https://nestjs.com/)
+- [Prisma ORM](https://www.prisma.io/)
 
 ## :clipboard: Funcionalidades
-- [x] Iniciar um ciclo de 25 minutos.
-- [x] Abadornar ciclo.
-- [x] Dispara um efeito sonoro quando o ciclo chega ao fim.
-- [x] Manda uma notificação quando o ciclo chega ao seu fim.
-- [x] A cada ciclo libera um novo desafio.
-- [x] Usuário ganha XP a cada desafio concluído.
-- [x] Usuário pode subir de nível.
+- [x] Criar uma notificação.
+- [x] Listar todas as notificações.
+- [x] Cancelar notificações.
+- [x] Marcar notifiações como lida.
+- [x] Marcar notifiações como não lida.
+- [x] Listar usuários.
 
 
 ## :closed_book: Instalação
@@ -37,10 +35,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/CrisPer12/moveYouApp.git
+$ git clone https://github.com/CrisPer12/Notification-Service.git
 
 # Vá para a pasta moveyou-next
-$ cd moveyou-next
+$ cd notification-service
 
 # Instale as dependências
 $ npm install 
